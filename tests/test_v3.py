@@ -1,5 +1,5 @@
 import requests
-from tests.builders import BookBuilder   # relative import
+from utility.builders import BookBuilder   # relative import
 
 BASE_URL = "http://127.0.0.1:8000"
 
