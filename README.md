@@ -9,4 +9,4 @@ pytest tests/<test_file_name>
 
 To Generate HTML Report
 
-pytest tests/<test_file_name> --html=report.html
+pytest tests/<test_file_name> --html=report.html --self-contained-html
